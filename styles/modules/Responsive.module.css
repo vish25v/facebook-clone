@@ -1,0 +1,7 @@
+.md-2 {
+  display: hidden;
+
+  @media screen (min-width: 900px) {
+    display: flex;
+  }
+}
